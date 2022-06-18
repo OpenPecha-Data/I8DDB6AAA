@@ -1,0 +1,39 @@
+id: I8DDB6AAA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:05:41.639633'
+last_modified: '2022-06-18T20:05:41.639646'
+parser: null
+source_metadata:
+  title: Commentary of the Essential Meaning of the Kālacakratantra (Old rGyal bzang
+    smon mkhar block print), colophon excerpt
+  author: gos lo tsA ba gzhon nu dpal/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-07-23); revision in process, thematic TEI
+    markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/4842
+  bases:
+    bb78:
+      title: Commentary of the Essential Meaning of the Kālacakratantra (Old rGyal
+        bzang smon mkhar block print), colophon excerpt
+      order: 1
+      base_file: bb78.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
